@@ -1,5 +1,3 @@
-import FeaturedTracks from './components/FeaturedTracks'
-import RecentlyPlayed from './components/RecentlyPlayed'
 
 export default function Home() {
   return (
