@@ -11,7 +11,9 @@
   "dependencies": {
     "next": "^14.0.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "lucide-react": "^0.268.0",
+    "clsx": "^1.2.1"
   },
   "devDependencies": {
     "eslint": "^8.0.0",
